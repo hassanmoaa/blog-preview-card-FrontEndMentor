@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/hassanmoaa/blog-preview-card-FrontEndMentor.git)
+- Live Site URL: (https://taupe-lolly-de8cf7.netlify.app/)
 
 
 ### Built with
